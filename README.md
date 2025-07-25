@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saniya1976](https://github.com/Saniya1976)
 
-- 📫 How to reach me **saniyakumari1976@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
