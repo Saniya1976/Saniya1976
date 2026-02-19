@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📄 Know about my experiences [https://saniya1976.github.io/resume/resume.pdf](https://saniya1976.github.io/resume/resume.pdf)
-
 - ⚡ Fun fact **I don’t quit — I just respawn smarter.**
 
 <h3 align="left">Connect with me:</h3>
