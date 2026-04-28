@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saniya1976&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saniya1976&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya1976&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -73,6 +73,14 @@
 ---
 
 ### 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya1976&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
