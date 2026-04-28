@@ -24,21 +24,40 @@
 
 ### ⚡ Stack
 
-<div align="center">
-
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css" />
+<table align="center"><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub>Next.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="48"/><br/><sub>Redux</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub>HTML5</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub>CSS3</sub></td>
+</tr></table>
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+<table align="center"><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><sub>Express</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><sub>MongoDB</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub>MySQL</sub></td>
+</tr></table>
 
 **Languages & Tools**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,linux,postman,xd" />
-
-</div>
+<table align="center"><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub>C</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub>C++</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub>Linux</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub>Postman</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=xd" width="48"/><br/><sub>Adobe XD</sub></td>
+</tr></table>
 
 ---
 
