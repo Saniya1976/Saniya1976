@@ -1,13 +1,11 @@
 <div align="center">
 
 ```bash
-❯ cat whoami.json
 {
   "name": "Saniya",
   "role": "Full Stack Developer 🚀",
   "location": "India 🇮🇳",
-  "currently_building": "Rentora",
-  "learning": "DSA (and loving the pain)",
+  "currently_working_in": "Whinta",
   "philosophy": "I don't quit — I just respawn smarter."
 }
 ```
