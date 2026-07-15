@@ -1,7 +1,7 @@
 <div align="center">
 
 ```bash
-{
+❯ cat whoami.json {
   "name": "Saniya",
   "role": "Full Stack Developer 🚀",
   "location": "India 🇮🇳",
