@@ -17,59 +17,38 @@
 
 </div>
 
-### ୨୧・about this pookie
-
 ```text
-╭─ ● ● ●  ~/saniya/about.sh
-│
-│  (˶ᵔ ᵕ ᵔ˶)  hi, i'm saniya!
-│
-│  name       : saniya
-│  role       : full stack developer
-│  location   : india
-│  experience : 3-month internship @ Whinta (past)
-│  motto      : "I don't quit — I just respawn smarter."
-│
-╰─ ♡ status: shipping side projects & practising DSA ₊˚⊹
+saniya@localhost:~$ cat identity.txt
+
+name      saniya
+role      full stack developer
+location  india
+github    @Saniya1976
+history   3-month internship @ Whinta (completed)
+motto     "I don't quit — I just respawn smarter."
+
+saniya@localhost:~$ _   (˶ᵔ ᵕ ᵔ˶)
 ```
 
-I build full stack web apps with the **React / Next.js / TypeScript** side of things on the front and **Node, Express and SQL/NoSQL databases** on the back. I finished a 3-month internship at **Whinta**, and I keep my problem-solving sharp with regular DSA practice on LeetCode and GeeksforGeeks.
+<br/>
 
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
+### // about me
 
-### ౨ৎ・my coding wardrobe
+I build full-stack web apps: **React, Next.js and TypeScript** on the front, **Node and Express** on the back, with **MongoDB or PostgreSQL** underneath. My projects so far include a real-time chat and video app, an AI-assisted social platform, and a rental marketplace with maps and payments.
 
-<div align="center">
+I completed a 3-month internship at **Whinta**, and I won **1st place at the Ctrl+Alt+Vibe Hackathon 2025** by building and delivering a full-stack solution in 24 hours.
 
-**꒰ა frontend ໒꒱**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS" /><br/>
-<sub>TypeScript · JavaScript · React · Next.js · Redux · Tailwind CSS · HTML5 · CSS3</sub>
+### > currently exploring
+
+```text
+> data structures & algorithms        # LeetCode, GeeksforGeeks
+> full stack fundamentals             # Next.js · TypeScript · Node · SQL
+```
 
 <br/>
 
-**꒰ა backend & databases ໒꒱**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Node.js, Express, MongoDB, PostgreSQL, MySQL" /><br/>
-<sub>Node.js · Express · MongoDB · PostgreSQL · MySQL</sub>
+### // selected projects
 
-<br/>
-
-**꒰ა languages ໒꒱**<br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,js" alt="Python, C, C++, TypeScript, JavaScript" /><br/>
-<sub>Python · C · C++ · TypeScript · JavaScript</sub>
-
-<br/>
-
-**꒰ა tools ໒꒱**<br/>
-<img src="https://skillicons.dev/icons?i=git,linux,postman,xd" alt="Git, Linux, Postman, Adobe XD" /><br/>
-<sub>Git · Linux · Postman · Adobe XD</sub>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
-
-### ♡・things i've built
-
-<div align="center">
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -121,7 +100,7 @@ Real estate rental platform with property listings, search, shortlisting and ren
 
 <br/>
 
-<img alt="Saniya's GitHub streak" src="https://streak-stats.demolab.com/?user=Saniya1976&hide_border=true&background=FFF5F9&ring=E8467C&fire=FF6B9A&currStreakLabel=8A2B54&currStreakNum=E8467C&sideLabels=8A2B54&sideNums=E8467C&dates=C0527C" />
+### // tech stack
 
 </div>
 
@@ -148,11 +127,36 @@ Real estate rental platform with property listings, search, shortlisting and ren
 
 <br/>
 
-```text
-saniya@github:~$ ./respawn --smarter
-♡ thanks for stopping by! (˶ᵔ ᵕ ᵔ˶)
-```
+### // github activity
 
-<sub>₊˚⊹♡ &nbsp; made with pink pixels &nbsp; ♡⊹˚₊</sub>
+<div align="center">
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Saniya1976&show_icons=true&theme=transparent&hide_border=true&title_color=A99BD6&text_color=9AA0AC&icon_color=A99BD6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Saniya1976&show_icons=true&theme=transparent&hide_border=true&title_color=5B4B8A&text_color=4A5160&icon_color=5B4B8A" />
+<img height="165" alt="Saniya1976 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Saniya1976&show_icons=true&theme=transparent&hide_border=true&title_color=A99BD6&text_color=9AA0AC&icon_color=A99BD6" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya1976&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=A99BD6&text_color=9AA0AC&icon_color=A99BD6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya1976&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=5B4B8A&text_color=4A5160&icon_color=5B4B8A" />
+<img height="165" alt="Saniya1976 top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya1976&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=A99BD6&text_color=9AA0AC&icon_color=A99BD6" />
+</picture>
+
+</div>
+
+<br/>
+
+### // connect
+
+<p>
+<a href="https://twitter.com/0x_saniyaa_"><img src="https://img.shields.io/badge/x-@0x__saniyaa__-2A2A36?style=flat-square&labelColor=15151C" alt="X profile: 0x_saniyaa_" /></a>
+<a href="https://www.linkedin.com/in/saniya-9287592a8"><img src="https://img.shields.io/badge/linkedin-saniya-2A2A36?style=flat-square&labelColor=15151C" alt="LinkedIn profile: Saniya" /></a>
+<a href="https://leetcode.com/u/saniya0nlc/"><img src="https://img.shields.io/badge/leetcode-saniya0nlc-2A2A36?style=flat-square&labelColor=15151C" alt="LeetCode profile: saniya0nlc" /></a>
+<a href="https://www.geeksforgeeks.org/profile/saniya2dcy"><img src="https://img.shields.io/badge/geeksforgeeks-saniya2dcy-2A2A36?style=flat-square&labelColor=15151C" alt="GeeksforGeeks profile: saniya2dcy" /></a>
+</p>
+
+<div align="center">
+<img src="assets/divider.svg" width="45%" alt="" />
+<br/>
+<sub><code>saniya@localhost:~$ exit</code> &nbsp;·&nbsp; (˶ᵔ ᵕ ᵔ˶) &nbsp;·&nbsp; respawning...</sub>
 </div>
