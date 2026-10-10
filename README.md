@@ -51,16 +51,125 @@ I completed a 3-month internship at **Whinta**, and I won **1st place at the Ctr
 
 <br/>
 
-### // tech stack
+### `// tech stack`
 
-<table>
-<tr><td valign="middle"><code>frontend</code></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" height="42" alt="React, Next.js, Redux, Tailwind CSS, HTML5, CSS3" /></td></tr>
-<tr><td valign="middle"><code>backend</code></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" height="42" alt="Node.js, Express, MongoDB, PostgreSQL, MySQL" /></td></tr>
-<tr><td valign="middle"><code>languages</code></td><td><img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp&theme=dark" height="42" alt="TypeScript, JavaScript, Python, C, C++" /></td></tr>
-<tr><td valign="middle"><code>tools</code></td><td><img src="https://skillicons.dev/icons?i=git,linux,postman,xd&theme=dark" height="42" alt="Git, Linux, Postman, Adobe XD" /></td></tr>
-</table>
+<div align="center">
+
+<sub>୨୧ &nbsp; tools of the trade &nbsp; · &nbsp; built different, one commit at a time &nbsp; ୨୧</sub>
 
 <br/>
+
+**⟡ FRONTEND**
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="56" height="56" alt="React"/><br/>
+<sub>React</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="56" height="56" alt="Next.js"/><br/>
+<sub>Next.js</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="56" height="56" alt="Redux"/><br/>
+<sub>Redux</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="56" height="56" alt="Tailwind CSS"/><br/>
+<sub>Tailwind CSS</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="56" height="56" alt="HTML5"/><br/>
+<sub>HTML5</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="56" height="56" alt="CSS3"/><br/>
+<sub>CSS3</sub>
+</td>
+</tr>
+</table>
+
+**⟡ BACKEND & DATABASES**
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="56" height="56" alt="Node.js"/><br/>
+<sub>Node.js</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="56" height="56" alt="Express"/><br/>
+<sub>Express</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="56" height="56" alt="MongoDB"/><br/>
+<sub>MongoDB</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="56" height="56" alt="PostgreSQL"/><br/>
+<sub>PostgreSQL</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="56" height="56" alt="MySQL"/><br/>
+<sub>MySQL</sub>
+</td>
+</tr>
+</table>
+
+**⟡ LANGUAGES**
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="56" height="56" alt="TypeScript"/><br/>
+<sub>TypeScript</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="56" height="56" alt="JavaScript"/><br/>
+<sub>JavaScript</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="56" height="56" alt="Python"/><br/>
+<sub>Python</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="56" height="56" alt="C"/><br/>
+<sub>C</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="56" height="56" alt="C++"/><br/>
+<sub>C++</sub>
+</td>
+</tr>
+</table>
+
+**⟡ TOOLS & PLATFORMS**
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" height="56" alt="Git"/><br/>
+<sub>Git</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="56" height="56" alt="Linux"/><br/>
+<sub>Linux</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="56" height="56" alt="Postman"/><br/>
+<sub>Postman</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=xd&theme=dark" width="56" height="56" alt="Adobe XD"/><br/>
+<sub>Adobe XD</sub>
+</td>
+</tr>
+</table>
+
+<sub>⌗ learning, building, debugging — repeat.exe ♡</sub>
+
+</div>
 
 ### // github activity
 
