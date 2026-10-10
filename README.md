@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/github-header.png" alt="Saniya, full stack developer. 404: boring developer not found. Dark terminal banner with a small pixel cat." width="100%" />
+<img src="assets/github-header.png" alt="Saniya, full stack developer. I don't quit — I just respawn smarter. Dark terminal banner with a small pixel cat." width="100%" />
 </div>
 
 ```text
